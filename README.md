@@ -17,3 +17,12 @@ The Adidas wants to create an annual sales report for 2020. So that, the owner o
   - Percentage of Total Orders delivered
 
   - Dashboard Interaction <a href="https://github.com/CHBLESSY/Adidas-sales-analysis/blob/main/adidas%20sales%20analysis%20image.png">View Dashboard</a>
+
+## Process
+  - Verify data for any missing values and anomalies, and sort out the same.
+  - Made sure data is consistent and clean with respect to data type, data format and values used.
+  - Created pivot tables according to the questions asked.
+  - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+
+    ## Dashboard
+     ![Screenshot 2025-02-13 112426](https://github.com/user-attachments/assets/cee61e8f-74a8-485a-b70c-decf3b4c2b5a)
