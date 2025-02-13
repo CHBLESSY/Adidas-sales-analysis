@@ -37,6 +37,7 @@ The Adidas wants to create an annual sales report for 2020. So that, the owner o
        - The average margin is 42%, indicating a strong profitability structure for Adidas.
    
   ## Conclusion
+     
      To boost sales and sustain growth, Adidas should enhance marketing efforts during low-sales months like March and capitalize on peak demand in mid-year. 
   Expanding in low-performing regions like the Midwest and strengthening Women’s Athletic Footwear marketing can drive further revenue. Additionally, improving 
   e-commerce presence on Amazon and Walmart and partnering with top retailers like West Gear and Foot Locker will optimize sales channels. By implementing these
