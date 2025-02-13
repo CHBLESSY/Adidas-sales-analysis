@@ -1,2 +1,3 @@
-# Adidas-sales-analysis
-I developed a comprehensive project in Power bi Desktop ,creating multiple dashboards and tables to analyze the data. This process involved several stages, including data preprocessing, data cleaning, and data visualization.
+# Adidas-sales-analysis(Interactive Dashboard creating using Power Bi Desktop)
+## Project Objective
+The Adidas wants to create an annual sales report for 2020. So that, the owner of the Adidas can understand their customers and grow more sales in 2021 & 2022.
